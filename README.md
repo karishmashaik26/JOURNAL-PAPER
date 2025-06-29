@@ -22,9 +22,7 @@ A smart embedded solution for detecting and preventing bridge collapses due to o
   - Praneeth  
   - Mahima  
   - Rudhira  
-- **🏫 Affiliation:** CMR College of Engineering & Technology, Hyderabad  
-- **📄 Download Journal Paper:**  
-  👉 [PRANATRANA_JournalPaper.docx](./journal/PRANATRANA_JournalPaper.docx)
+- **🏫 Affiliation:** CMR College of Engineering & Technology, Hyderabad 
 
 ---
 

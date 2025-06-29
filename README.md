@@ -83,7 +83,6 @@ A smart embedded solution for detecting and preventing bridge collapses due to o
 4. Adjust `THRESHOLD` value in code for max allowed bridge weight
 
 ---
-
 ## 📚 References
 
 - AASHTO LRFD Bridge Design Specs, 6th Edition

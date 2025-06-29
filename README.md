@@ -90,4 +90,3 @@ A smart embedded solution for detecting and preventing bridge collapses due to o
 - Dias et al. (2019) – Impact of Overweight Vehicles
 - Arduino.cc Documentation
 - HX711 Load Cell Amplifier Tutorial – SparkFun
-
